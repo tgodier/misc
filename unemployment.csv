@@ -1,320 +1,320 @@
 id,state,county,rate
-01001,Alabama,Autauga County,5.1
-01003,Alabama,Baldwin County,4.9
-01005,Alabama,Barbour County,8.6
-01007,Alabama,Bibb County,6.2
-01009,Alabama,Blount County,5.1
-01011,Alabama,Bullock County,7.1
-01013,Alabama,Butler County,6.7
-01015,Alabama,Calhoun County,6.1
-01017,Alabama,Chambers County,5
-01019,Alabama,Cherokee County,5
-01021,Alabama,Chilton County,5.2
-01023,Alabama,Choctaw County,7.9
-01025,Alabama,Clarke County,11.1
-01027,Alabama,Clay County,5.9
-01029,Alabama,Cleburne County,5.5
-01031,Alabama,Coffee County,5.6
-01033,Alabama,Colbert County,6.5
-01035,Alabama,Conecuh County,7.7
-01037,Alabama,Coosa County,5.7
-01039,Alabama,Covington County,6.7
-01041,Alabama,Crenshaw County,5.7
-01043,Alabama,Cullman County,4.8
-01045,Alabama,Dale County,5.6
-01047,Alabama,Dallas County,9.5
-01049,Alabama,DeKalb County,5.7
-01051,Alabama,Elmore County,4.7
-01053,Alabama,Escambia County,6.3
-01055,Alabama,Etowah County,5.7
-01057,Alabama,Fayette County,6.6
-01059,Alabama,Franklin County,5.5
-01061,Alabama,Geneva County,5.4
-01063,Alabama,Greene County,9.3
-01065,Alabama,Hale County,7.6
-01067,Alabama,Henry County,6.3
-01069,Alabama,Houston County,5.6
-01071,Alabama,Jackson County,5.9
-01073,Alabama,Jefferson County,5.5
-01075,Alabama,Lamar County,5.2
-01077,Alabama,Lauderdale County,6
-01079,Alabama,Lawrence County,6.4
-01081,Alabama,Lee County,4.9
-01083,Alabama,Limestone County,5
-01085,Alabama,Lowndes County,10.3
-01087,Alabama,Macon County,7.2
-01089,Alabama,Madison County,4.9
-01091,Alabama,Marengo County,6.9
-01093,Alabama,Marion County,6.1
-01095,Alabama,Marshall County,5.1
-01097,Alabama,Mobile County,6.5
-01099,Alabama,Monroe County,8.6
-01101,Alabama,Montgomery County,5.6
-01103,Alabama,Morgan County,5.2
-01105,Alabama,Perry County,10.9
-01107,Alabama,Pickens County,6.7
-01109,Alabama,Pike County,6.4
-01111,Alabama,Randolph County,5.7
-01113,Alabama,Russell County,5.3
-01115,Alabama,St. Clair County,5
-01117,Alabama,Shelby County,4.2
-01119,Alabama,Sumter County,7.3
-01121,Alabama,Talladega County,6.4
-01123,Alabama,Tallapoosa County,5.1
-01125,Alabama,Tuscaloosa County,5.5
-01127,Alabama,Walker County,7.2
-01129,Alabama,Washington County,8.3
-01131,Alabama,Wilcox County,13.9
-01133,Alabama,Winston County,7
-02013,Alaska,Aleutians East Borough,1.9
-02016,Alaska,Aleutians West Census Area,2.2
-02020,Alaska,Anchorage Municipality,5
-02050,Alaska,Bethel Census Area,14.1
-02060,Alaska,Bristol Bay Borough,5.6
-02068,Alaska,Denali Borough,3.2
-02070,Alaska,Dillingham Census Area,8.1
-02090,Alaska,Fairbanks North Star Borough,4.9
-02100,Alaska,Haines Borough,5.9
-02105,Alaska,Hoonah-Angoon Census Area,7.3
-02110,Alaska,Juneau City and Borough,3.6
-02122,Alaska,Kenai Peninsula Borough,6.9
-02130,Alaska,Ketchikan Gateway Borough,4.4
-02150,Alaska,Kodiak Island Borough,4.8
-02158,Alaska,Kusilvak Census Area,21.7
-02164,Alaska,Lake and Peninsula Borough,9.2
-02170,Alaska,Matanuska-Susitna Borough,7.4
-02180,Alaska,Nome Census Area,13.6
-02185,Alaska,North Slope Borough,6.9
-02188,Alaska,Northwest Arctic Borough,16.5
-02195,Alaska,Petersburg Census Area,5.7
-02198,Alaska,Prince of Wales-Hyder Census Area,9.4
-02220,Alaska,Sitka City and Borough,3
-02230,Alaska,Skagway Municipality,3
-02240,Alaska,Southeast Fairbanks Census Area,8.7
-02261,Alaska,Valdez-Cordova Census Area,5.4
-02275,Alaska,Wrangell City and Borough,5.4
-02282,Alaska,Yakutat City and Borough,5.8
-02290,Alaska,Yukon-Koyukuk Census Area,16.4
-04001,Arizona,Apache County,11.8
-04003,Arizona,Cochise County,6.5
-04005,Arizona,Coconino County,6.4
-04007,Arizona,Gila County,7.6
-04009,Arizona,Graham County,7.3
-04011,Arizona,Greenlee County,7.7
-04012,Arizona,La Paz County,6.6
-04013,Arizona,Maricopa County,4.9
-04015,Arizona,Mohave County,7
-04017,Arizona,Navajo County,8.5
-04019,Arizona,Pima County,5.4
-04021,Arizona,Pinal County,5.9
-04023,Arizona,Santa Cruz County,13
-04025,Arizona,Yavapai County,5
-04027,Arizona,Yuma County,24.4
-05001,Arkansas,Arkansas County,3.2
-05003,Arkansas,Ashley County,6.3
-05005,Arkansas,Baxter County,4.1
-05007,Arkansas,Benton County,2.7
-05009,Arkansas,Boone County,3.3
-05011,Arkansas,Bradley County,5.9
-05013,Arkansas,Calhoun County,5.1
-05015,Arkansas,Carroll County,2.8
-05017,Arkansas,Chicot County,6
-05019,Arkansas,Clark County,4.5
-05021,Arkansas,Clay County,5
-05023,Arkansas,Cleburne County,5.7
-05025,Arkansas,Cleveland County,4.4
-05027,Arkansas,Columbia County,5.7
-05029,Arkansas,Conway County,5.9
-05031,Arkansas,Craighead County,3.1
-05033,Arkansas,Crawford County,3.7
-05035,Arkansas,Crittenden County,4.4
-05037,Arkansas,Cross County,3.9
-05039,Arkansas,Dallas County,5
-05041,Arkansas,Desha County,5.1
-05043,Arkansas,Drew County,5.7
-05045,Arkansas,Faulkner County,3.7
-05047,Arkansas,Franklin County,3.9
-05049,Arkansas,Fulton County,3.9
-05051,Arkansas,Garland County,4
-05053,Arkansas,Grant County,3.2
-05055,Arkansas,Greene County,4
-05057,Arkansas,Hempstead County,3.7
-05059,Arkansas,Hot Spring County,3.6
-05061,Arkansas,Howard County,3.4
-05063,Arkansas,Independence County,5
-05065,Arkansas,Izard County,5.3
-05067,Arkansas,Jackson County,5.9
-05069,Arkansas,Jefferson County,5.9
-05071,Arkansas,Johnson County,4.8
-05073,Arkansas,Lafayette County,6.2
-05075,Arkansas,Lawrence County,4.5
-05077,Arkansas,Lee County,4.5
-05079,Arkansas,Lincoln County,4.9
-05081,Arkansas,Little River County,5.1
-05083,Arkansas,Logan County,4.4
-05085,Arkansas,Lonoke County,3.2
-05087,Arkansas,Madison County,3
-05089,Arkansas,Marion County,3.8
-05091,Arkansas,Miller County,4.3
-05093,Arkansas,Mississippi County,7.1
-05095,Arkansas,Monroe County,4.5
-05097,Arkansas,Montgomery County,4.6
-05099,Arkansas,Nevada County,3.7
-05101,Arkansas,Newton County,3.6
-05103,Arkansas,Ouachita County,5.6
-05105,Arkansas,Perry County,4.4
-05107,Arkansas,Phillips County,5.5
-05109,Arkansas,Pike County,3.8
-05111,Arkansas,Poinsett County,4.1
-05113,Arkansas,Polk County,4.7
-05115,Arkansas,Pope County,4.7
-05117,Arkansas,Prairie County,3.7
-05119,Arkansas,Pulaski County,3.5
-05121,Arkansas,Randolph County,4.6
-05123,Arkansas,St. Francis County,5
-05125,Arkansas,Saline County,3
-05127,Arkansas,Scott County,3.7
-05129,Arkansas,Searcy County,4.3
-05131,Arkansas,Sebastian County,3.5
-05133,Arkansas,Sevier County,4.8
-05135,Arkansas,Sharp County,5.2
-05137,Arkansas,Stone County,4.8
-05139,Arkansas,Union County,5.6
-05141,Arkansas,Van Buren County,6.4
-05143,Arkansas,Washington County,2.6
-05145,Arkansas,White County,4.8
-05147,Arkansas,Woodruff County,5.3
-05149,Arkansas,Yell County,4.4
-06001,California,Alameda County,4.6
-06003,California,Alpine County,7.3
-06005,California,Amador County,5.7
-06007,California,Butte County,6.6
-06009,California,Calaveras County,5.7
-06011,California,Colusa County,10
-06013,California,Contra Costa County,4.7
-06015,California,Del Norte County,7.3
-06017,California,El Dorado County,5.1
-06019,California,Fresno County,8.7
-06021,California,Glenn County,7.9
-06023,California,Humboldt County,5.1
-06025,California,Imperial County,26.4
-06027,California,Inyo County,4.9
-06029,California,Kern County,9.7
-06031,California,Kings County,8.9
-06033,California,Lake County,6.3
-06035,California,Lassen County,6.1
-06037,California,Los Angeles County,5.3
-06039,California,Madera County,8.2
-06041,California,Marin County,3.5
-06043,California,Mariposa County,5.4
-06045,California,Mendocino County,5
-06047,California,Merced County,9.2
-06049,California,Modoc County,6.6
-06051,California,Mono County,5.2
-06053,California,Monterey County,5.6
-06055,California,Napa County,4
-06057,California,Nevada County,4.8
-06059,California,Orange County,4.3
-06061,California,Placer County,4.7
-06063,California,Plumas County,7.1
-06065,California,Riverside County,6.9
-06067,California,Sacramento County,5.7
-06069,California,San Benito County,6.2
-06071,California,San Bernardino County,6.2
-06073,California,San Diego County,5
-06075,California,San Francisco County,3.5
-06077,California,San Joaquin County,7.7
-06079,California,San Luis Obispo County,4.5
-06081,California,San Mateo County,3.2
-06083,California,Santa Barbara County,4.8
-06085,California,Santa Clara County,4
-06087,California,Santa Cruz County,5.7
-06089,California,Shasta County,6.8
-06091,California,Sierra County,6.6
-06093,California,Siskiyou County,7.1
-06095,California,Solano County,5.7
-06097,California,Sonoma County,4.1
-06099,California,Stanislaus County,7.9
-06101,California,Sutter County,7.9
-06103,California,Tehama County,7.4
-06105,California,Trinity County,5.9
-06107,California,Tulare County,10.6
-06109,California,Tuolumne County,6.1
-06111,California,Ventura County,5.7
-06113,California,Yolo County,5.5
-06115,California,Yuba County,8
-08001,Colorado,Adams County,3.6
-08003,Colorado,Alamosa County,4.3
-08005,Colorado,Arapahoe County,3.2
-08007,Colorado,Archuleta County,3.1
-08009,Colorado,Baca County,1.8
-08011,Colorado,Bent County,3.1
-08013,Colorado,Boulder County,2.9
-08014,Colorado,Broomfield County,3.1
-08015,Colorado,Chaffee County,2.4
-08017,Colorado,Cheyenne County,2.7
-08019,Colorado,Clear Creek County,3.3
-08021,Colorado,Conejos County,4.9
-08023,Colorado,Costilla County,4.8
-08025,Colorado,Crowley County,3.6
-08027,Colorado,Custer County,3
-08029,Colorado,Delta County,4.7
-08031,Colorado,Denver County,3.2
-08033,Colorado,Dolores County,4.1
-08035,Colorado,Douglas County,2.8
-08037,Colorado,Eagle County,2.5
-08039,Colorado,Elbert County,2.6
-08041,Colorado,El Paso County,3.9
-08043,Colorado,Fremont County,5.1
-08045,Colorado,Garfield County,3.3
-08047,Colorado,Gilpin County,2.6
-08049,Colorado,Grand County,2.3
-08051,Colorado,Gunnison County,2.1
-08053,Colorado,Hinsdale County,2
-08055,Colorado,Huerfano County,6.2
-08057,Colorado,Jackson County,2.3
-08059,Colorado,Jefferson County,3.1
-08061,Colorado,Kiowa County,2.1
-08063,Colorado,Kit Carson County,1.8
-08065,Colorado,Lake County,2.6
-08067,Colorado,La Plata County,2.9
-08069,Colorado,Larimer County,2.9
-08071,Colorado,Las Animas County,5
-08073,Colorado,Lincoln County,2.5
-08075,Colorado,Logan County,3.3
-08077,Colorado,Mesa County,5.3
-08079,Colorado,Mineral County,1.7
-08081,Colorado,Moffat County,3.6
-08083,Colorado,Montezuma County,4.5
-08085,Colorado,Montrose County,3.9
-08087,Colorado,Morgan County,3.5
-08089,Colorado,Otero County,4.6
-08091,Colorado,Ouray County,3.2
-08093,Colorado,Park County,2.7
-08095,Colorado,Phillips County,2.3
-08097,Colorado,Pitkin County,2.7
-08099,Colorado,Prowers County,3.5
-08101,Colorado,Pueblo County,4.9
-08103,Colorado,Rio Blanco County,5.1
-08105,Colorado,Rio Grande County,5.1
-08107,Colorado,Routt County,2.6
-08109,Colorado,Saguache County,5.9
-08111,Colorado,San Juan County,2.4
-08113,Colorado,San Miguel County,2.4
-08115,Colorado,Sedgwick County,2.2
-08117,Colorado,Summit County,2.1
-08119,Colorado,Teller County,3.7
-08121,Colorado,Washington County,2.1
-08123,Colorado,Weld County,3.5
-08125,Colorado,Yuma County,2.2
-09001,Connecticut,Fairfield County,5.2
-09003,Connecticut,Hartford County,6
-09005,Connecticut,Litchfield County,4.8
-09007,Connecticut,Middlesex County,4.8
-09009,Connecticut,New Haven County,6.1
-09011,Connecticut,New London County,5.4
-09013,Connecticut,Tolland County,4.8
-09015,Connecticut,Windham County,5.8
+1001,Alabama,Autauga County,5.1
+1003,Alabama,Baldwin County,4.9
+1005,Alabama,Barbour County,8.6
+1007,Alabama,Bibb County,6.2
+1009,Alabama,Blount County,5.1
+1011,Alabama,Bullock County,7.1
+1013,Alabama,Butler County,6.7
+1015,Alabama,Calhoun County,6.1
+1017,Alabama,Chambers County,5
+1019,Alabama,Cherokee County,5
+1021,Alabama,Chilton County,5.2
+1023,Alabama,Choctaw County,7.9
+1025,Alabama,Clarke County,11.1
+1027,Alabama,Clay County,5.9
+1029,Alabama,Cleburne County,5.5
+1031,Alabama,Coffee County,5.6
+1033,Alabama,Colbert County,6.5
+1035,Alabama,Conecuh County,7.7
+1037,Alabama,Coosa County,5.7
+1039,Alabama,Covington County,6.7
+1041,Alabama,Crenshaw County,5.7
+1043,Alabama,Cullman County,4.8
+1045,Alabama,Dale County,5.6
+1047,Alabama,Dallas County,9.5
+1049,Alabama,DeKalb County,5.7
+1051,Alabama,Elmore County,4.7
+1053,Alabama,Escambia County,6.3
+1055,Alabama,Etowah County,5.7
+1057,Alabama,Fayette County,6.6
+1059,Alabama,Franklin County,5.5
+1061,Alabama,Geneva County,5.4
+1063,Alabama,Greene County,9.3
+1065,Alabama,Hale County,7.6
+1067,Alabama,Henry County,6.3
+1069,Alabama,Houston County,5.6
+1071,Alabama,Jackson County,5.9
+1073,Alabama,Jefferson County,5.5
+1075,Alabama,Lamar County,5.2
+1077,Alabama,Lauderdale County,6
+1079,Alabama,Lawrence County,6.4
+1081,Alabama,Lee County,4.9
+1083,Alabama,Limestone County,5
+1085,Alabama,Lowndes County,10.3
+1087,Alabama,Macon County,7.2
+1089,Alabama,Madison County,4.9
+1091,Alabama,Marengo County,6.9
+1093,Alabama,Marion County,6.1
+1095,Alabama,Marshall County,5.1
+1097,Alabama,Mobile County,6.5
+1099,Alabama,Monroe County,8.6
+1101,Alabama,Montgomery County,5.6
+1103,Alabama,Morgan County,5.2
+1105,Alabama,Perry County,10.9
+1107,Alabama,Pickens County,6.7
+1109,Alabama,Pike County,6.4
+1111,Alabama,Randolph County,5.7
+1113,Alabama,Russell County,5.3
+1115,Alabama,St. Clair County,5
+1117,Alabama,Shelby County,4.2
+1119,Alabama,Sumter County,7.3
+1121,Alabama,Talladega County,6.4
+1123,Alabama,Tallapoosa County,5.1
+1125,Alabama,Tuscaloosa County,5.5
+1127,Alabama,Walker County,7.2
+1129,Alabama,Washington County,8.3
+1131,Alabama,Wilcox County,13.9
+1133,Alabama,Winston County,7
+2013,Alaska,Aleutians East Borough,1.9
+2016,Alaska,Aleutians West Census Area,2.2
+2020,Alaska,Anchorage Municipality,5
+2050,Alaska,Bethel Census Area,14.1
+2060,Alaska,Bristol Bay Borough,5.6
+2068,Alaska,Denali Borough,3.2
+2070,Alaska,Dillingham Census Area,8.1
+2090,Alaska,Fairbanks North Star Borough,4.9
+2100,Alaska,Haines Borough,5.9
+2105,Alaska,Hoonah-Angoon Census Area,7.3
+2110,Alaska,Juneau City and Borough,3.6
+2122,Alaska,Kenai Peninsula Borough,6.9
+2130,Alaska,Ketchikan Gateway Borough,4.4
+2150,Alaska,Kodiak Island Borough,4.8
+2158,Alaska,Kusilvak Census Area,21.7
+2164,Alaska,Lake and Peninsula Borough,9.2
+2170,Alaska,Matanuska-Susitna Borough,7.4
+2180,Alaska,Nome Census Area,13.6
+2185,Alaska,North Slope Borough,6.9
+2188,Alaska,Northwest Arctic Borough,16.5
+2195,Alaska,Petersburg Census Area,5.7
+2198,Alaska,Prince of Wales-Hyder Census Area,9.4
+2220,Alaska,Sitka City and Borough,3
+2230,Alaska,Skagway Municipality,3
+2240,Alaska,Southeast Fairbanks Census Area,8.7
+2261,Alaska,Valdez-Cordova Census Area,5.4
+2275,Alaska,Wrangell City and Borough,5.4
+2282,Alaska,Yakutat City and Borough,5.8
+2290,Alaska,Yukon-Koyukuk Census Area,16.4
+4001,Arizona,Apache County,11.8
+4003,Arizona,Cochise County,6.5
+4005,Arizona,Coconino County,6.4
+4007,Arizona,Gila County,7.6
+4009,Arizona,Graham County,7.3
+4011,Arizona,Greenlee County,7.7
+4012,Arizona,La Paz County,6.6
+4013,Arizona,Maricopa County,4.9
+4015,Arizona,Mohave County,7
+4017,Arizona,Navajo County,8.5
+4019,Arizona,Pima County,5.4
+4021,Arizona,Pinal County,5.9
+4023,Arizona,Santa Cruz County,13
+4025,Arizona,Yavapai County,5
+4027,Arizona,Yuma County,24.4
+5001,Arkansas,Arkansas County,3.2
+5003,Arkansas,Ashley County,6.3
+5005,Arkansas,Baxter County,4.1
+5007,Arkansas,Benton County,2.7
+5009,Arkansas,Boone County,3.3
+5011,Arkansas,Bradley County,5.9
+5013,Arkansas,Calhoun County,5.1
+5015,Arkansas,Carroll County,2.8
+5017,Arkansas,Chicot County,6
+5019,Arkansas,Clark County,4.5
+5021,Arkansas,Clay County,5
+5023,Arkansas,Cleburne County,5.7
+5025,Arkansas,Cleveland County,4.4
+5027,Arkansas,Columbia County,5.7
+5029,Arkansas,Conway County,5.9
+5031,Arkansas,Craighead County,3.1
+5033,Arkansas,Crawford County,3.7
+5035,Arkansas,Crittenden County,4.4
+5037,Arkansas,Cross County,3.9
+5039,Arkansas,Dallas County,5
+5041,Arkansas,Desha County,5.1
+5043,Arkansas,Drew County,5.7
+5045,Arkansas,Faulkner County,3.7
+5047,Arkansas,Franklin County,3.9
+5049,Arkansas,Fulton County,3.9
+5051,Arkansas,Garland County,4
+5053,Arkansas,Grant County,3.2
+5055,Arkansas,Greene County,4
+5057,Arkansas,Hempstead County,3.7
+5059,Arkansas,Hot Spring County,3.6
+5061,Arkansas,Howard County,3.4
+5063,Arkansas,Independence County,5
+5065,Arkansas,Izard County,5.3
+5067,Arkansas,Jackson County,5.9
+5069,Arkansas,Jefferson County,5.9
+5071,Arkansas,Johnson County,4.8
+5073,Arkansas,Lafayette County,6.2
+5075,Arkansas,Lawrence County,4.5
+5077,Arkansas,Lee County,4.5
+5079,Arkansas,Lincoln County,4.9
+5081,Arkansas,Little River County,5.1
+5083,Arkansas,Logan County,4.4
+5085,Arkansas,Lonoke County,3.2
+5087,Arkansas,Madison County,3
+5089,Arkansas,Marion County,3.8
+5091,Arkansas,Miller County,4.3
+5093,Arkansas,Mississippi County,7.1
+5095,Arkansas,Monroe County,4.5
+5097,Arkansas,Montgomery County,4.6
+5099,Arkansas,Nevada County,3.7
+5101,Arkansas,Newton County,3.6
+5103,Arkansas,Ouachita County,5.6
+5105,Arkansas,Perry County,4.4
+5107,Arkansas,Phillips County,5.5
+5109,Arkansas,Pike County,3.8
+5111,Arkansas,Poinsett County,4.1
+5113,Arkansas,Polk County,4.7
+5115,Arkansas,Pope County,4.7
+5117,Arkansas,Prairie County,3.7
+5119,Arkansas,Pulaski County,3.5
+5121,Arkansas,Randolph County,4.6
+5123,Arkansas,St. Francis County,5
+5125,Arkansas,Saline County,3
+5127,Arkansas,Scott County,3.7
+5129,Arkansas,Searcy County,4.3
+5131,Arkansas,Sebastian County,3.5
+5133,Arkansas,Sevier County,4.8
+5135,Arkansas,Sharp County,5.2
+5137,Arkansas,Stone County,4.8
+5139,Arkansas,Union County,5.6
+5141,Arkansas,Van Buren County,6.4
+5143,Arkansas,Washington County,2.6
+5145,Arkansas,White County,4.8
+5147,Arkansas,Woodruff County,5.3
+5149,Arkansas,Yell County,4.4
+6001,California,Alameda County,4.6
+6003,California,Alpine County,7.3
+6005,California,Amador County,5.7
+6007,California,Butte County,6.6
+6009,California,Calaveras County,5.7
+6011,California,Colusa County,10
+6013,California,Contra Costa County,4.7
+6015,California,Del Norte County,7.3
+6017,California,El Dorado County,5.1
+6019,California,Fresno County,8.7
+6021,California,Glenn County,7.9
+6023,California,Humboldt County,5.1
+6025,California,Imperial County,26.4
+6027,California,Inyo County,4.9
+6029,California,Kern County,9.7
+6031,California,Kings County,8.9
+6033,California,Lake County,6.3
+6035,California,Lassen County,6.1
+6037,California,Los Angeles County,5.3
+6039,California,Madera County,8.2
+6041,California,Marin County,3.5
+6043,California,Mariposa County,5.4
+6045,California,Mendocino County,5
+6047,California,Merced County,9.2
+6049,California,Modoc County,6.6
+6051,California,Mono County,5.2
+6053,California,Monterey County,5.6
+6055,California,Napa County,4
+6057,California,Nevada County,4.8
+6059,California,Orange County,4.3
+6061,California,Placer County,4.7
+6063,California,Plumas County,7.1
+6065,California,Riverside County,6.9
+6067,California,Sacramento County,5.7
+6069,California,San Benito County,6.2
+6071,California,San Bernardino County,6.2
+6073,California,San Diego County,5
+6075,California,San Francisco County,3.5
+6077,California,San Joaquin County,7.7
+6079,California,San Luis Obispo County,4.5
+6081,California,San Mateo County,3.2
+6083,California,Santa Barbara County,4.8
+6085,California,Santa Clara County,4
+6087,California,Santa Cruz County,5.7
+6089,California,Shasta County,6.8
+6091,California,Sierra County,6.6
+6093,California,Siskiyou County,7.1
+6095,California,Solano County,5.7
+6097,California,Sonoma County,4.1
+6099,California,Stanislaus County,7.9
+6101,California,Sutter County,7.9
+6103,California,Tehama County,7.4
+6105,California,Trinity County,5.9
+6107,California,Tulare County,10.6
+6109,California,Tuolumne County,6.1
+6111,California,Ventura County,5.7
+6113,California,Yolo County,5.5
+6115,California,Yuba County,8
+8001,Colorado,Adams County,3.6
+8003,Colorado,Alamosa County,4.3
+8005,Colorado,Arapahoe County,3.2
+8007,Colorado,Archuleta County,3.1
+8009,Colorado,Baca County,1.8
+8011,Colorado,Bent County,3.1
+8013,Colorado,Boulder County,2.9
+8014,Colorado,Broomfield County,3.1
+8015,Colorado,Chaffee County,2.4
+8017,Colorado,Cheyenne County,2.7
+8019,Colorado,Clear Creek County,3.3
+8021,Colorado,Conejos County,4.9
+8023,Colorado,Costilla County,4.8
+8025,Colorado,Crowley County,3.6
+8027,Colorado,Custer County,3
+8029,Colorado,Delta County,4.7
+8031,Colorado,Denver County,3.2
+8033,Colorado,Dolores County,4.1
+8035,Colorado,Douglas County,2.8
+8037,Colorado,Eagle County,2.5
+8039,Colorado,Elbert County,2.6
+8041,Colorado,El Paso County,3.9
+8043,Colorado,Fremont County,5.1
+8045,Colorado,Garfield County,3.3
+8047,Colorado,Gilpin County,2.6
+8049,Colorado,Grand County,2.3
+8051,Colorado,Gunnison County,2.1
+8053,Colorado,Hinsdale County,2
+8055,Colorado,Huerfano County,6.2
+8057,Colorado,Jackson County,2.3
+8059,Colorado,Jefferson County,3.1
+8061,Colorado,Kiowa County,2.1
+8063,Colorado,Kit Carson County,1.8
+8065,Colorado,Lake County,2.6
+8067,Colorado,La Plata County,2.9
+8069,Colorado,Larimer County,2.9
+8071,Colorado,Las Animas County,5
+8073,Colorado,Lincoln County,2.5
+8075,Colorado,Logan County,3.3
+8077,Colorado,Mesa County,5.3
+8079,Colorado,Mineral County,1.7
+8081,Colorado,Moffat County,3.6
+8083,Colorado,Montezuma County,4.5
+8085,Colorado,Montrose County,3.9
+8087,Colorado,Morgan County,3.5
+8089,Colorado,Otero County,4.6
+8091,Colorado,Ouray County,3.2
+8093,Colorado,Park County,2.7
+8095,Colorado,Phillips County,2.3
+8097,Colorado,Pitkin County,2.7
+8099,Colorado,Prowers County,3.5
+8101,Colorado,Pueblo County,4.9
+8103,Colorado,Rio Blanco County,5.1
+8105,Colorado,Rio Grande County,5.1
+8107,Colorado,Routt County,2.6
+8109,Colorado,Saguache County,5.9
+8111,Colorado,San Juan County,2.4
+8113,Colorado,San Miguel County,2.4
+8115,Colorado,Sedgwick County,2.2
+8117,Colorado,Summit County,2.1
+8119,Colorado,Teller County,3.7
+8121,Colorado,Washington County,2.1
+8123,Colorado,Weld County,3.5
+8125,Colorado,Yuma County,2.2
+9001,Connecticut,Fairfield County,5.2
+9003,Connecticut,Hartford County,6
+9005,Connecticut,Litchfield County,4.8
+9007,Connecticut,Middlesex County,4.8
+9009,Connecticut,New Haven County,6.1
+9011,Connecticut,New London County,5.4
+9013,Connecticut,Tolland County,4.8
+9015,Connecticut,Windham County,5.8
 10001,Delaware,Kent County,5.1
 10003,Delaware,New Castle County,4.5
 10005,Delaware,Sussex County,3.7
@@ -3089,7 +3089,7 @@ id,state,county,rate
 55081,Wisconsin,Monroe County,3.5
 55083,Wisconsin,Oconto County,3.9
 55085,Wisconsin,Oneida County,4.3
-55087,Wisconsin,Outagamie County,3.5
+55087,Wisconsin,Outagamie County,9
 55089,Wisconsin,Ozaukee County,3.4
 55091,Wisconsin,Pepin County,3.2
 55093,Wisconsin,Pierce County,3.8
